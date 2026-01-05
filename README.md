@@ -105,15 +105,15 @@ Limer Gestão de Saúde Corporativa
 <p align="center">
 
 <a href="https://github.com/BillieJean06/web-application">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillieJean06&repo=web-application&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillieJean06&repo=LuminStoryMaker&theme=dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/BillieJean06/ester">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillieJean06&repo=ester&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillieJean06&repo=front_neodits&theme=dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/BillieJean06/ngl-style">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillieJean06&repo=ngl-style&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillieJean06&repo=Mecanica&theme=dark&hide_border=true" />
 </a>
 
 </p>
