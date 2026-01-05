@@ -1,18 +1,32 @@
-# 👋 Olá, eu sou Billie
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AA1DD,100:0A3FFF&height=180&section=header&text=Billie&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0AA1DD&center=true&vCenter=true&width=440&lines=Ciência+da+Computação;Segurança+da+Informação;Back-end+%7C+Sistemas+%7C+Web;Construindo+soluções+seguras" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BillieJean06&color=0aa1dd&style=flat-square" />
+</p>
+
+---
+
+## 👋 Sobre mim
 
 Sou estudante de **Ciência da Computação** e trabalho como **Auxiliar Administrativo na Limer Gestão de Saúde Corporativa**.  
-Atuo com foco em **Segurança da Informação, Sistemas e Desenvolvimento Web**, unindo tecnologia e processos para criar soluções organizadas, seguras e funcionais.
+Tenho foco em **Segurança da Informação, Sistemas e Desenvolvimento Web**, unindo organização, tecnologia e processos.
 
-Gosto de entender como as coisas funcionam por dentro, desde banco de dados e autenticação até a experiência do usuário.
+Gosto de entender sistemas por dentro, cuidar de dados e criar soluções que sejam simples de usar e seguras por trás.
 
 ---
 
 ## 🎓 Formação
 
-- 🎓 Ciência da Computação (em andamento)
-- 📘 Técnico em Tecnologias da Informação e Comunicação (SENAI)
-- 📘 Introdução à Robótica (SENAI)
-- 📜 CS50's Introduction to Programming with Python – Harvard
+- Ciência da Computação (em andamento)
+- Técnico em Tecnologias da Informação e Comunicação – SENAI  
+- Introdução à Robótica – SENAI  
+- CS50's Introduction to Programming with Python – Harvard
 
 ---
 
@@ -21,77 +35,87 @@ Gosto de entender como as coisas funcionam por dentro, desde banco de dados e au
 **Auxiliar Administrativo**  
 Limer Gestão de Saúde Corporativa
 
-- Organização e controle de dados e documentos
+- Organização de documentos e dados
 - Apoio a processos internos
-- Contato direto com sistemas e rotinas administrativas
-- Vivência real com dados sensíveis e necessidade de segurança
+- Contato com sistemas administrativos
+- Vivência com dados sensíveis e rotinas que exigem segurança
 
 ---
 
 ## 🛠️ Tecnologias
 
-**Linguagens**
-- JavaScript
-- Python
-- SQL
+### Linguagens
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/iconicons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+</div>
 
-**Back-end**
-- Node.js
-- Express
-- AdonisJS
+### Front-end
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/iconicons/vuetify/vuetify-original.svg" width="40"/>
+</div>
 
-**Front-end**
-- Vue.js
-- Vuetify
-- HTML5 / CSS3
+### Back-end
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40"/>
+</div>
 
-**Banco de Dados**
-- PostgreSQL
-- Supabase
+### Banco de Dados
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40"/>
+</div>
 
-**Segurança**
-- JWT
-- Hash de senhas (bcrypt)
-- Controle de permissões
-- Validação de tokens
+### Segurança
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+</div>
 
-**Ferramentas**
-- Git / GitHub
-- Postman
-- Linux (WSL/Ubuntu)
+### Ferramentas
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+</div>
 
 ---
 
 ## 🚀 Projetos em destaque
 
-- 🔐 **Sistema de Autenticação Seguro**
-  - Login, registro, redefinição de senha, permissões por cargo, JWT, PostgreSQL
+<p align="center">
 
-- 💬 **Classificador de Comentários do YouTube**
-  - App que puxa comentários de lives e classifica como bons ou ruins
+<a href="https://github.com/billie/web-application">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillieJean06&repo=web-application&theme=dark&hide_border=true" />
+</a>
 
-- 🌐 **Plataforma NGL-style**
-  - Sistema anônimo integrado com Instagram, com autenticação e painel admin
+<a href="https://github.com/billie/ester">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillieJean06&repo=ester&theme=dark&hide_border=true" />
+</a>
 
-- 🎂 **Projetos Web Interativos**
-  - Sites com efeitos visuais, animações e integração com banco de dados
+<a href="https://github.com/billie/ngl-style">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillieJean06&repo=ngl-style&theme=dark&hide_border=true" />
+</a>
 
----
-
-## 🎯 Áreas de interesse
-
-- Segurança da Informação
-- Administração de Sistemas e Redes
-- Desenvolvimento Web
-- Automação de processos
-- Bancos de dados
+</p>
 
 ---
 
-## 📫 Contato
+## 📊 GitHub Stats
 
-- GitHub: https://github.com/billie
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BillieJean06&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BillieJean06&theme=dark&hide_border=true" />
+</p>
 
 ---
 
-> "Tecnologia é mais do que código. É organização, segurança e responsabilidade."
+> "Tecnologia é organização, segurança e responsabilidade."
