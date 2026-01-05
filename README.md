@@ -12,10 +12,10 @@
 
 ---
 
-## 👋 Sobre mim
+## 👨🏾 Sobre mim
 
 Sou estudante de **Ciência da Computação** e trabalho como **Auxiliar Administrativo na Limer Gestão de Saúde Corporativa**.  
-Tenho foco em **Segurança da Informação, Sistemas e Desenvolvimento Web**, unindo organização, tecnologia e processos.
+Tenho foco em **Segurança da Informação, Sistemas e Desenvolvimento Web**.
 
 Gosto de entender sistemas por dentro, cuidar de dados e criar soluções simples de usar e seguras por trás.
 
@@ -23,10 +23,10 @@ Gosto de entender sistemas por dentro, cuidar de dados e criar soluções simple
 
 ## 🎓 Formação
 
-- Ciência da Computação (em andamento)
+- Ciência da Computação (em andamento)  
 - Técnico em Tecnologias da Informação e Comunicação – SENAI  
 - Introdução à Robótica – SENAI  
-- CS50's Introduction to Programming with Python – Harvard
+- CS50's Introduction to Programming with Python – Harvard  
 
 ---
 
@@ -74,7 +74,7 @@ Limer Gestão de Saúde Corporativa
 
 ### Segurança
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsonwebtoken/jsonwebtoken-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
 </div>
 
@@ -91,11 +91,31 @@ Limer Gestão de Saúde Corporativa
 ## 🚀 Projetos
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BillieJean06&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BillieJean06&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BillieJean06&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 📦 Repositórios em destaque
+
+<p align="center">
+
+<a href="https://github.com/BillieJean06/web-application">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillieJean06&repo=web-application&theme=dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/BillieJean06/ester">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillieJean06&repo=ester&theme=dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/BillieJean06/ngl-style">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillieJean06&repo=ngl-style&theme=dark&hide_border=true" />
+</a>
+
 </p>
 
 ---
