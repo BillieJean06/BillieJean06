@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AA1DD,100:0A3FFF&height=180&section=header&text=Billie&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AA1DD,100:0A3FFF&height=180&section=header&text=Isaque%20Teodoro&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 Sou estudante de **Ciência da Computação** e trabalho como **Auxiliar Administrativo na Limer Gestão de Saúde Corporativa**.  
 Tenho foco em **Segurança da Informação, Sistemas e Desenvolvimento Web**, unindo organização, tecnologia e processos.
 
-Gosto de entender sistemas por dentro, cuidar de dados e criar soluções que sejam simples de usar e seguras por trás.
+Gosto de entender sistemas por dentro, cuidar de dados e criar soluções simples de usar e seguras por trás.
 
 ---
 
@@ -35,10 +35,10 @@ Gosto de entender sistemas por dentro, cuidar de dados e criar soluções que se
 **Auxiliar Administrativo**  
 Limer Gestão de Saúde Corporativa
 
-- Organização de documentos e dados
-- Apoio a processos internos
-- Contato com sistemas administrativos
-- Vivência com dados sensíveis e rotinas que exigem segurança
+- Organização de documentos e dados  
+- Apoio a processos internos  
+- Contato com sistemas administrativos  
+- Vivência com dados sensíveis e rotinas que exigem segurança  
 
 ---
 
@@ -47,8 +47,8 @@ Limer Gestão de Saúde Corporativa
 ### Linguagens
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/iconicons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 </div>
 
 ### Front-end
@@ -56,7 +56,7 @@ Limer Gestão de Saúde Corporativa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/iconicons/vuetify/vuetify-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="40"/>
 </div>
 
 ### Back-end
@@ -88,34 +88,24 @@ Limer Gestão de Saúde Corporativa
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BillieJean06&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+</p>
 
-<a href="https://github.com/billie/web-application">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillieJean06&repo=web-application&theme=dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/billie/ester">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillieJean06&repo=ester&theme=dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/billie/ngl-style">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillieJean06&repo=ngl-style&theme=dark&hide_border=true" />
-</a>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BillieJean06&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Atividade
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BillieJean06&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BillieJean06&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-> "Tecnologia é organização, segurança e responsabilidade."
+> Tecnologia é organização, segurança e responsabilidade.
