@@ -44,78 +44,53 @@ Limer Gestão de Saúde Corporativa
 
 ## 🛠️ Tecnologias
 
-### Linguagens
-<div>
+### 👨‍💻 Linguagens
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-</div>
+</p>
 
-### Front-end
-<div>
+### 🎨 Front-end
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="40"/>
-</div>
+</p>
 
-### Back-end
-<div>
+### ⚙️ Back-end
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40"/>
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+</p>
 
-### Banco de Dados
-<div>
+### 🗄️ Banco de Dados
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40"/>
-</div>
+</p>
 
-### Segurança
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsonwebtoken/jsonwebtoken-original.svg" width="40"/>
+### 🔐 Segurança
+<p align="center">
+  <img src="https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-</div>
+</p>
 
-### Ferramentas
-<div>
+### 🧰 Ferramentas
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
-</div>
-
----
-
-## 🚀 Projetos
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BillieJean06&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
+### 💻 IDEs
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BillieJean06&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 📦 Repositórios em destaque
-
-<p align="center">
-
-<a href="https://github.com/BillieJean06/web-application">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillieJean06&repo=LuminStoryMaker&theme=dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/BillieJean06/ester">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillieJean06&repo=front_neodits&theme=dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/BillieJean06/ngl-style">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BillieJean06&repo=Mecanica&theme=dark&hide_border=true" />
-</a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
 ---
