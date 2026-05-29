@@ -77,12 +77,12 @@ principle_3  = Segurança não é feature — é fundação
  
 ```yaml
 company:    Limer Gestão de Saúde Corporativa
-role:       Auxiliar Administrativo
+role:       Desenvolvedor Front-End
 context:
-  - Organização e gestão de documentos e dados sensíveis
-  - Suporte a sistemas e processos administrativos internos
-  - Contato direto com rotinas que exigem rigor em segurança da informação
-  - Vivência prática com confidencialidade e integridade de dados
+  - Desenvolvimento e Modernização (Next.js): Engenharia front-end do sistema UnimedTrack para rastreamento logístico, aplicando Next.js (App Router), React e TypeScript para isolar a camada de visualização das complexas regras de negócio de transporte.
+  - Sustentação de Ecossistema Legado (Vue.js): Gerenciamento contínuo e manutenção evolutiva de interfaces corporativas em produção utilizando Vue 2 e Vuetify, garantindo a estabilidade operacional sem interrupções sistêmicas.
+  - Integração de Dados e Versionamento: Consumo de serviços RESTful (ecossistema Plataforma-back), atuando em fluxos de controle de versão (Git/GitHub) para estabelecer contratos rigorosos de dados entre o back-end e as interfaces web.
+  - Segurança e Compliance de Interface: Tratamento, sanitização e renderização segura de dados sensíveis de saúde corporativa no front-end, mitigando vulnerabilidades de exposição e assegurando a confidencialidade no lado do cliente.
 ```
  
 ---
