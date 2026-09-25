@@ -65,8 +65,6 @@ Processamento assíncrono de tarefas pesadas em segundo plano, com painel de sta
 
 ![Trophy](https://github-trophies.vercel.app/?username=BillieJean06&theme=tokyonight)
 
-![Contribuições](https://ghchart.rshah.org/7AA2F7/BillieJean06)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BillieJean06/BillieJean06/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BillieJean06/BillieJean06/output/github-snake.svg" />
