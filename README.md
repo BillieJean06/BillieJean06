@@ -34,10 +34,8 @@ Estudante de Ciência da Computação em Campinas, SP, com foco em arquitetura d
 
 Portal institucional em produção, reconstruído do zero em arquitetura própria para substituir uma solução de terceiros, com painel administrativo para a equipe gerir o conteúdo sem depender de desenvolvedor.
 
-**Stack:** React · Node.js · PostgreSQL · Vercel
+**Stack:** React · Node.js · PostgreSQL · Hostinger
 **Site:** [adbelemcampinas.org](https://adbelemcampinas.org)
-**Repositório:** [preencher]
-**Resultado:** [preencher]
 
 ### Synapse · Sistema de Autenticação e Gestão de Usuários
 
@@ -69,7 +67,11 @@ Processamento assíncrono de tarefas pesadas em segundo plano, com painel de sta
 
 ![Contribuições](https://ghchart.rshah.org/7AA2F7/BillieJean06)
 
-[[cobra aqui]]
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BillieJean06/BillieJean06/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BillieJean06/BillieJean06/output/github-snake.svg" />
+  <img alt="Cobra comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/BillieJean06/BillieJean06/output/github-snake.svg" />
+</picture>
 
 </div>
 
