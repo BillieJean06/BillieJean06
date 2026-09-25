@@ -1,121 +1,85 @@
 <div align="center">
- 
-**`Isaque Teodoro`** · Ciência da Computação · Segurança da Informação
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=0AA1DD&center=true&vCenter=true&width=500&lines=Systems+%7C+Security+%7C+Backend+Engineering;Construindo+sistemas+seguros+por+dentro;Entendendo+antes+de+implementar)](https://git.io/typing-svg)
- 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Isaque+Teodoro;Desenvolvedor+Full+Stack;Vue.js+%7C+React+%7C+Node.js+%7C+PostgreSQL)](https://git.io/typing-svg)
+
 </div>
----
- 
-## `whoami`
- 
-```bash
-$ cat /etc/isaque/profile.conf
-```
- 
-```ini
-[identity]
-name         = Isaque Teodoro
-role         = Estudante de Ciência da Computação
-focus        = Segurança da Informação · Sistemas · Desenvolvimento Web
-location     = Brasil
- 
-[philosophy]
-principle_1  = Entender o sistema por dentro antes de qualquer coisa
-principle_2  = Dados sensíveis exigem responsabilidade, não improviso
-principle_3  = Segurança não é feature — é fundação
-```
- 
----
- 
-## `stack --list`
- 
-<table>
-<tr>
-<td valign="top" width="33%">
-**Linguagens**
- 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
- 
-</td>
-<td valign="top" width="33%">
-**Ferramentas**
- 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
- 
-</td>
-<td valign="top" width="33%">
-**Em andamento**
- 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
- 
-</td>
-</tr>
-</table>
----
- 
-## `education --verbose`
- 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  📚 Ciência da Computação                          [cursando]   │
-│  🏭 Técnico em TIC                                    [SENAI]   │
-│  🤖 Introdução à Robótica                             [SENAI]   │
-│  🐍 CS50's Introduction to Programming with Python  [Harvard]  │
-└─────────────────────────────────────────────────────────────────┘
-```
- 
----
- 
-## `experience --current`
- 
-```yaml
-company:    Limer Gestão de Saúde Corporativa
-role:       Desenvolvedor Front-End
-context:
-  - Desenvolvimento e Modernização (Next.js): Engenharia front-end do sistema UnimedTrack para rastreamento logístico, aplicando Next.js (App Router), React e TypeScript para isolar a camada de visualização das complexas regras de negócio de transporte.
-  - Sustentação de Ecossistema Legado (Vue.js): Gerenciamento contínuo e manutenção evolutiva de interfaces corporativas em produção utilizando Vue 2 e Vuetify, garantindo a estabilidade operacional sem interrupções sistêmicas.
-  - Integração de Dados e Versionamento: Consumo de serviços RESTful (ecossistema Plataforma-back), atuando em fluxos de controle de versão (Git/GitHub) para estabelecer contratos rigorosos de dados entre o back-end e as interfaces web.
-  - Segurança e Compliance de Interface: Tratamento, sanitização e renderização segura de dados sensíveis de saúde corporativa no front-end, mitigando vulnerabilidades de exposição e assegurando a confidencialidade no lado do cliente.
-```
- 
----
- 
-## `git log --stat`
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BillieJean06&theme=dark&hide_border=true&background=0D1117&stroke=0AA1DD&ring=0AA1DD&fire=0A3FFF&currStreakLabel=0AA1DD)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BillieJean06&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=0AA1DD&title_color=0AA1DD&text_color=FFFFFF)
+Desenvolvedor Full Stack na LIMER Gestão de Saúde Corporativa desde jan/2025, trabalhando em uma plataforma web de gestão de saúde ocupacional com Vue.js/Vuetify, AdonisJS e PostgreSQL.
+Cuido de novos módulos, manutenção de código legado e do Design System interno, e desde 2024 também desenvolvo aplicações web sob medida como autônomo.
+Estudante de Ciência da Computação em Campinas, SP, com foco em arquitetura de software e DDD.
 
 </div>
+
 ---
- 
-## `connect --protocols`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+## Stack e ferramentas
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![Stack](https://skillicons.dev/icons?i=ts,js,python,html,css,vue,vuetify,react,nextjs,astro,tailwind,nodejs,nestjs,express,postgres,supabase,sqlite,redis,docker,git,github,linux,vercel,aws,gcp&perline=25)](https://skillicons.dev)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BillieJean06)
-
-</div>---
- 
-<div align="center">
-```
-// Tecnologia é organização, segurança e responsabilidade.
-```
- 
-![Profile Views](https://komarev.com/ghpvc/?username=BillieJean06&color=0aa1dd&style=flat-square&label=profile+views)
- 
 </div>
- 
+
+---
+
+<div align="center">
+
+## Projetos em destaque
+
+</div>
+
+### Portal Institucional e Painel Administrativo · AD Belém Campinas
+
+Portal institucional em produção, reconstruído do zero em arquitetura própria para substituir uma solução de terceiros, com painel administrativo para a equipe gerir o conteúdo sem depender de desenvolvedor.
+
+**Stack:** React · Node.js · PostgreSQL · Vercel
+**Site:** [adbelemcampinas.org](https://adbelemcampinas.org)
+**Repositório:** [preencher]
+**Resultado:** [preencher]
+
+### Synapse · Sistema de Autenticação e Gestão de Usuários
+
+Fluxo completo de cadastro, login, sessão, dashboard e recuperação de senha por e-mail, com hash de senhas, tokens com expiração e proteção de rotas privadas.
+
+**Stack:** Node.js · Express · PostgreSQL · Astro
+**Repositório:** [preencher]
+**Resultado:** [preencher]
+
+### Fila Distribuída de Jobs com Dashboard de Monitoramento
+
+Processamento assíncrono de tarefas pesadas em segundo plano, com painel de status e controle de retentativas, para que essas tarefas não bloqueiem as requisições.
+
+**Stack:** Node.js · Redis · Docker
+**Repositório:** [preencher]
+**Resultado:** [preencher]
+
+---
+
+<div align="center">
+
+## Atividade no GitHub
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BillieJean06&theme=tokyonight)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=BillieJean06&show_icons=true&theme=tokyonight)
+
+![Trophy](https://github-trophies.vercel.app/?username=BillieJean06&theme=tokyonight)
+
+![Contribuições](https://ghchart.rshah.org/7AA2F7/BillieJean06)
+
+[[cobra aqui]]
+
+</div>
+
+---
+
+<div align="center">
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7)](https://www.linkedin.com/in/isaque-teodoro-017a4b3a1/)
+[![Email](https://img.shields.io/badge/Email-1A1B26?style=for-the-badge&logo=gmail&logoColor=7AA2F7)](mailto:isaque.teodoro1234@gmail.com)
+
+</div>
